@@ -1,1 +1,1 @@
-# Diabtes-prediction
+# Diabetes-prediction
